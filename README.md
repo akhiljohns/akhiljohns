@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Johns</h1>
 <h3 align="center">A Passionate Full Stack Developer From Kerala,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiljohns&label=Profile%20views&color=0e75b6&style=flat" alt="akhiljohns" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhiljohns" alt="akhiljohns" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/akhiljohns3" target="blank"><img src="https://img.shields.io/twitter/follow/akhiljohns3?logo=twitter&style=for-the-badge" alt="akhiljohns3" /></a> </p>
 
 - 🔭 I’m currently working on **React OLX Clone**
