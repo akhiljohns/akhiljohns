@@ -164,15 +164,14 @@ const services = {
 
 ## 📈 Professional Experience
 
-### 🏢 Frontend Engineer - Topscore Softwares
-**CRM Platform Development** • *2023 - Present*
+### 🏢 Frontend Engineer - Topscore Softwares • *2024 - Present*
+**CRM Platform Development**
 - Leading frontend development for enterprise CRM system
 - Implementing React + TypeScript + Vite architecture
 - Building reusable component libraries with Shadcn UI
 - Mentoring team members and establishing coding standards
 
-### 🚀 Full-Stack Developer
-**Inventory & Business Solutions** • *2022 - Present*
+**Inventory & Business Solutions**
 - Developing inventory management platforms
 - Creating WordPress solutions for educational institutions
 - Building e-commerce stores with WooCommerce
