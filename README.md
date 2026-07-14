@@ -24,9 +24,26 @@ I use **AI tools across my workflow** — from planning and architecture discuss
 
 # 📊 GitHub Stats & Activity
 
-![](https://github-readme-stats.vercel.app/api?username=akhiljohns&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akhiljohns&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhiljohns&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Using an active community-maintained fallback endpoint -->
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhiljohns&theme=blue_navy&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Akhil's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhiljohns&theme=blue_navy&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhiljohns&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhiljohns&theme=github_dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/repo?username=akhiljohns&repo=akhil-topscore&theme=github_dark" alt="Top Contributed Repo" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akhiljohns&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
