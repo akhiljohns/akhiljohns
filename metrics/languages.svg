@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="188" viewBox="0 0 480 188" role="img" aria-label="Languages by lines I wrote">
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; } .h { fill: #1f2328; } .t { fill: #1f2328; } .m { fill: #59636e; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; } .h { fill: #e6edf3; } .t { fill: #e6edf3; } .m { fill: #9198a1; }
+  }
+  text { font: 13px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .h { font-weight: 600; font-size: 15px; }
+</style>
+<rect class="bg" x="0.5" y="0.5" width="479" height="187" rx="6"/>
+<text x="20" y="34" class="h">Languages I write</text>
+<text x="460" y="34" class="m" text-anchor="end">by lines authored, all repos</text>
+<clipPath id="bar"><rect x="20" y="52" width="440" height="10" rx="5"/></clipPath>
+<g clip-path="url(#bar)"><rect x="20.00" y="52" width="328.28" height="10" fill="#3178c6"/><rect x="348.28" y="52" width="78.29" height="10" fill="#178600"/><rect x="426.56" y="52" width="7.45" height="10" fill="#663399"/><rect x="434.02" y="52" width="6.88" height="10" fill="#f1e05a"/><rect x="440.90" y="52" width="6.85" height="10" fill="#4F5D95"/><rect x="447.75" y="52" width="5.39" height="10" fill="#e34c26"/><rect x="453.14" y="52" width="3.51" height="10" fill="#e38c00"/><rect x="456.66" y="52" width="3.34" height="10" fill="#3572A5"/></g>
+<circle cx="25" cy="88" r="5" fill="#3178c6"/><text x="36" y="92" class="t">TypeScript</text><text x="230" y="92" class="m" text-anchor="end">74.6%</text><circle cx="255" cy="88" r="5" fill="#178600"/><text x="266" y="92" class="t">C#</text><text x="460" y="92" class="m" text-anchor="end">17.8%</text><circle cx="25" cy="112" r="5" fill="#663399"/><text x="36" y="116" class="t">CSS</text><text x="230" y="116" class="m" text-anchor="end">1.7%</text><circle cx="255" cy="112" r="5" fill="#f1e05a"/><text x="266" y="116" class="t">JavaScript</text><text x="460" y="116" class="m" text-anchor="end">1.6%</text><circle cx="25" cy="136" r="5" fill="#4F5D95"/><text x="36" y="140" class="t">PHP</text><text x="230" y="140" class="m" text-anchor="end">1.6%</text><circle cx="255" cy="136" r="5" fill="#e34c26"/><text x="266" y="140" class="t">HTML</text><text x="460" y="140" class="m" text-anchor="end">1.2%</text><circle cx="25" cy="160" r="5" fill="#e38c00"/><text x="36" y="164" class="t">SQL</text><text x="230" y="164" class="m" text-anchor="end">0.8%</text><circle cx="255" cy="160" r="5" fill="#3572A5"/><text x="266" y="164" class="t">Python</text><text x="460" y="164" class="m" text-anchor="end">0.8%</text>
+</svg>
